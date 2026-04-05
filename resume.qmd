@@ -1,89 +1,66 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Bolton Polmateer's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
 
-<div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
-</div>
+# Bolton Polmateer
 
-
-## Currently
-
-Standing on the shoulders of giants
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
+boltonpolmateer@gmail.com | (765) 421-4539 | https://www.linkedin.com/in/bolton-polmateer/
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+### Bachelor of Science in Supply Chain Management
+Brigham Young University - Idaho, Rexburg, Idaho  
+September 2023 - December 2027
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+- GPA: 3.97
+- Minor in Data Science
+- Relevant Coursework: Business Analytics, Statistics, Data Science (Python), SQL, Logistics, Operations Management, Spreadsheet Modeling, Accounting, Student Consulting
 
-- Sizar
+### Lean Six Sigma Green Belt Consulting Project
+Fresco (Restaurant), Rexburg, Idaho  
+May 2025 - July 2025
 
-`1667 - death`
-__Trinity College, Cambridge__
+- Reduced food preparation times by 17% with a student team by addressing inventory, motion, and transportation waste through Lean Six Sigma practices
+- Built manager buy-in and rollout plan for sustaining Lean changes after project
 
-- Fellow
+## Experience
 
+### Ops Improvement & Fab Lead
+Manufab (Metal Fabrication), Rexburg, Idaho  
+January 2024 - December 2025
 
+- Led early operations improvement effort by introducing one-piece flow, workflow clarity, visual controls, and 5S in absence of baseline performance data
+- Coordinated daily execution of a 50,000 sq ft facility build by organizing crews of 2–5, sequencing work phases, and sustaining progress with minimal supervision
+- Owned full fabrication lifecycle from material preparation through welding and final installation across 200,000+ lbs of custom steel projects
 
-## Awards
+### Welder
+Wabash National (Semi-Trailer Manufacturing), Lafayette, Indiana  
+April 2023 - September 2023
 
-`2012`
-President, *Royal Society*, London, UK
+- Welded trailer components in a high-throughput manufacturing environment, following standard work and quality requirements while supporting production of 20–30 trailers per shift
 
-Associate, *French Academy of Science*, Paris, France
+### Volunteer Representative / Team Lead
+The Church of Jesus Christ of Latter-day Saints, Salt Lake City, Utah  
+March 2021 - April 2023
 
+- Led and trained teams of 12–22 volunteers for 18 months, coordinating outreach goals and daily execution while maintaining disciplined planning routines
+- Guided individuals facing addiction, depression, and major life challenges, building trust and clearly communicating complex ideas across diverse backgrounds
 
+### Owner / Founder
+Civil Outfitters (Clothing Company), Lafayette, Indiana  
+October 2017 - June 2020
 
-## Publications
+- Built and operated a small business reaching customers in 18 states, doubling initial investment within two months while 16 years old
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+## Skills & Certifications
 
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+- **Analytics:** Advanced Excel (VBA), Power BI (DAX), SQL, Python, R
+- **Operations:** Lean Six Sigma Green Belt, Statistical Process Control, Root Cause Analysis, Sigma XL
+- **Other:** Leadership, Public Speaking, Accounting Fundamentals, Arabic (In Progress)
 
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: April 2026 -->
